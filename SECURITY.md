@@ -1,4 +1,4 @@
-# Reporting Security Issues
+# CHANGED STUFF
 
 If you believe you have found a security vulnerability in Create React App, we encourage you to let us know right away. We will investigate all legitimate reports and do our best to quickly fix the problem.
 
